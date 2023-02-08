@@ -1,0 +1,10 @@
+.weather-card-top {
+    @apply flex flex-col border-b-2 border-gray-400 border-solid pb-4;
+}
+
+.weather-card-bottom {
+    @apply pt-4;
+}
+.weather-card-degrees {
+    @apply text-[28px] flex items-center justify-between;
+}

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+:root {
+    --main-bg: rgb(39, 36, 36);
+
+    --main-font-famaly: 'Inconsolata'
+}

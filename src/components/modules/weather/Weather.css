@@ -1,0 +1,14 @@
+.weather {
+    @apply pt-10 mx-auto h-screen w-[320px];
+}
+
+.weather-title {
+    @apply text-[32px] font-bold text-white;
+}
+
+.weather-loading {
+    @apply flex justify-center items-center text-white;
+}
+.weather-container {
+    @apply flex border bg-gray-800 rounded text-white p-8 flex-col;
+}
